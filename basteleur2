@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Basteleur2",
+    "previewText": "Font used In the Castle logo and ui",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "ggsans-Bold": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "ggsans-Medium": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "ggsans-Normal": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Moonlight.otf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Moonlight.otf?raw=1",
+        "ggsans-Semibold": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "NotoSans-Bold": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "NotoSans-Medium": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "NotoSans-Normal": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Moonlight.otf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Moonlight.otf?raw=1",
+        "NotoSans-Semibold": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Bold.otf?raw=1",
+        "ggmono-Normal": "https://github.com/catyklism/Castle-Font-/blob/main/Basteleur-Moonlight.otf?raw=1"
+    }
+}
